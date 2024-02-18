@@ -26,7 +26,7 @@ This project provides Inventory Management using Power BI, useful for Warehouse/
 1. In power BI-> Upload Excel File -->GET DATA
 2. Performing ETL
 3. Performing DAX Operations STEPS FOR Visualization
-# [NOTE : IF YOU WANT DETAIL STEPS FOR THIS PROJECT, I HAVE ATTATCHED A PPT FOR IT.]
+### [NOTE : IF YOU WANT DETAIL STEPS FOR THIS PROJECT, I HAVE ATTATCHED A PPT FOR IT.]
 
 # Conclusion:
 Using this Dashboard, Inventory Managers have effectively Control in which we are Storing & maintain the Service levels by ordering Right Re-order points.
